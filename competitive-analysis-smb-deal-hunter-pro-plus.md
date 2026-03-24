@@ -10,11 +10,22 @@
 **SMB Deal Hunter** is a business acquisition coaching and deal-sourcing platform founded by **Helen Guo**, an entrepreneur featured on Forbes 30 Under 30 who previously co-founded and sold the CPG brand Schoolyard Snacks. The company operates as a newsletter, podcast, online community, and premium coaching program designed to help individuals source, evaluate, finance, and close small-to-medium business acquisitions.
 
 - **Website:** smbdealhunter.xyz
-- **Founder:** Helen Guo
+- **Founder:** Helen Guo (with husband Dylan Guo)
+- **Holding Company:** D&H — buys and grows small businesses
 - **Founded:** ~2023
 - **Headquarters:** USA
-- **Product Tiers:** Free Newsletter, Pro, Pro+ (premium)
-- **Target Market:** First-time business buyers with $50K+ liquid capital seeking to acquire businesses with $500K+ cash flow
+- **Newsletter Subscribers:** 150K+ learners
+- **Product Tiers:** Free Newsletter → Plus (Premier) → MBA → Pro → Pro+ (premium)
+- **Target Market:** First-time business buyers with $50K+ liquid capital seeking to acquire businesses in the $1M-$10M range ($500K+ cash flow)
+- **Thesis:** Baby boomer retirements are creating a massive wave of SMB transfers (~10M boomer-owned businesses changing hands 2019-2029)
+
+### Named Advisory Team
+| Advisor | Specialty |
+|---|---|
+| **Bill Haig** | Acquired and scaled a business to 4 locations |
+| **Mubarak Shah** | CPA with 85+ M&A deals ($1M-$45M range) |
+| **Will McClain** | 10+ years in SBA lending, overseeing $2.5B+ in loan closings |
+| **Marc** | Acquired a print shop, grew margins by 30% in year one |
 
 ---
 
@@ -24,11 +35,29 @@
 - Weekly curated deal listings (on-market)
 - SMB Deal Hunter Podcast (Apple Podcasts, Spotify)
 - General acquisition education content
+- 150K+ subscribers
 
-### 2.2 SMB Deal Hunter PRO
+### 2.2 SMB Deal Hunter+ (Premier Membership)
+- **Pricing:** Not publicly listed (subscription-based, estimated hundreds/month)
+- **10 handpicked deals per week** with full contact info
+- **Proprietary deal aggregation platform** — monitors thousands of brokers and hundreds of listing sites in one place
+- **Flagship video course:** "How to Buy a Cash Flowing Business" (search criteria, valuation, broker presentations, deal structuring, negotiation, financing, due diligence)
+- **Templates & tools:** Seller interview question bank, deal evaluation calculators, due diligence checklists, broker outreach templates
+- **Community:** Private Slack with 350+ business buyers, regular mastermind calls (recorded with notes/transcripts)
+- **In-person meetups, events, and dinners**
+
+### 2.3 SMB Deal Hunter MBA
+- **Pricing:** ~$2,000
+- **Format:** Live 4-week cohort-based accelerator (~4 hours/week commitment)
+- Live sessions + recordings, Slack community, 2x weekly office hours with advisors
+- Post-graduation access to the broader 480+ alumni buyer community
+- Functions as a "stepping stone" between Premier and Pro
+
+### 2.4 SMB Deal Hunter PRO (White-Glove)
 - **Pricing:** ~$12,000-$15,000 upfront (no success fee)
 - **Duration:** 12 months of support or until deal closes
 - **Core offering:** Full-service acquisition coaching and deal sourcing
+- Everything in Premier, plus:
 
 **Key Features:**
 | Feature | Details |
@@ -36,15 +65,20 @@
 | **Deal Sourcing** | Curated on-market listings from multiple aggregators; outreach to 20,000+ broker network; personalized off-market campaigns |
 | **Off-Market Marketplace** | Private marketplace with 10-20 new listings added weekly |
 | **Advisory Team** | 4-5 dedicated advisors (CPA, attorney, SBA finance specialist, deal consultants) |
+| **Unlimited 1:1 Advisory** | Deal reviews, structuring, negotiation, due diligence support |
 | **Support Channels** | Private Slack community, weekly mastermind calls, 1:1 Zoom sessions |
 | **Deal Guidance** | Full lifecycle: offers, LOIs, due diligence, deal structuring, financing, closing |
-| **Vendor Access** | Preferred lawyers, accountants, SBA lenders, capital partners |
+| **Investor Network** | Access to 50,000+ accredited investors; guaranteed introductions to at least 10 investors |
+| **Vendor Access** | Vetted SBA lenders, private lenders, QoE providers, accounting firms, legal counsel, marketing agencies |
 
-### 2.3 SMB Deal Hunter PRO+ (Premium Tier)
+### 2.5 SMB Deal Hunter PRO+ (Premium Tier)
 - **Pricing:** Not publicly disclosed (estimated higher than PRO; book-a-call model)
-- Appears to be an upgraded version of PRO with additional services
-- Likely includes enhanced deal flow priority, more intensive 1:1 advisory, and premium vendor access
+- Appears to be the top-tier upgrade of PRO with enhanced services
+- Likely includes priority deal flow, more intensive 1:1 advisory, premium vendor access, and possibly equity/co-investment introductions
 - Accessible via `app.smbdealhunter.xyz/upgrade`
+
+### Target Industries
+Service businesses (landscaping, fencing, HVAC, plumbing), auto repair, medical billing, cabinetry, marketing agencies, print shops, aerospace CNC machining — generally any cash-flowing business with retiring boomer owners. Financing typically via SBA 7(a) loans (often 10% down), seller financing, private lenders, or equity from accredited investors.
 
 ---
 
@@ -118,6 +152,8 @@
 | **Deal aggregators** | BizBuySell, BizNexus Marketplace, Kumo, Rejigg, Interexo | High — commoditize the deal-sourcing value |
 | **Buy-side brokers** | Independent M&A advisors, DueDilio marketplace | High — pay-for-performance model, aligned incentives |
 | **Off-market lead gen** | X5 Deals, BizNexus Concierge, Captarget | Medium — targeted, cheaper alternative to full coaching |
+| **AI-powered deal sourcing** | Grata, Sourcescrub | High — proprietary target lists with contact data at scale |
+| **Private deal networks** | Axial ($500K-$10M EBITDA range) | Medium — network-based deal flow for serious buyers |
 | **Financing platforms** | LendedAI, Fundscout, Cerebro Capital, SBAmatch | Low — complementary, not competitive |
 | **Books/courses** | *Buy Then Build*, Carl Allen courses | Low — educational only, no community |
 | **Free mentorship** | SCORE (SBA-backed), local SBDCs | Low — free but limited M&A specialization |
@@ -154,6 +190,17 @@
 ---
 
 ## 6. Pricing Analysis
+
+### SMB Deal Hunter Internal Tier Pricing
+| Tier | Price | Model |
+|---|---|---|
+| Free Newsletter | $0 | Weekly deal highlights |
+| Plus (Premier) | Est. $100s/month | Subscription |
+| MBA | ~$2,000 | 4-week cohort |
+| Pro | $12,000-$15,000 | 12-month flat fee |
+| Pro+ | $15,000+ (est.) | Book-a-call |
+
+*Note: Prices have reportedly increased over time; a price increase was noted for January 2026.*
 
 ### Market Positioning
 SMB Deal Hunter PRO+ sits at the **premium end** of the acquisition accelerator market:
@@ -224,3 +271,10 @@ A legitimate, full-service offering at a premium price point. Best suited for we
 - [Acquira Accelerator](https://acquira.com/accelerator/)
 - [SMB Deal Hunter Reviews - Zuubly](https://zuubly.com/helen/)
 - [SMB Deal Hunter Podcast - Spotify](https://open.spotify.com/show/0pJVSB3Rt50v0b6EdRbMhC)
+- [SMB Deal Hunter Premier Membership](https://plus.smbdealhunter.xyz/)
+- [SMB Deal Hunter Pro Overview - Gamma](https://smb-deal-hunter-overview-qso3izb.gamma.site/)
+- [SMB Deal Hunter MBA](https://enroll.smbdealhuntermba.com/)
+- [SMB Deal Hunter MBA Waitlist](https://smbdealhuntermba.com/)
+- [Deal Sourcing for Search Funds - Searcher Insights](https://searcherinsights.com/the-real-guide-to-deal-sourcing-for-your-search-fund-2025/)
+- [Helen Guo on LinkedIn](https://www.linkedin.com/in/helen-guo-06674523/)
+- [SMB Deal Hunter on LinkedIn](https://www.linkedin.com/newsletters/smb-deal-hunter-7150245800755757056)
