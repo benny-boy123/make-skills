@@ -15,7 +15,7 @@ Both companies operate in the "business acquisition" space but play fundamentall
 | **Est. Annual Revenue** | $2M–$3.5M | $50M–$80M+ (firm) / $250M+ (portfolio) |
 | **Founder Net Worth** | Low millions | $120M–$220M (Hormozi) |
 | **Team Size** | ~6 people | 50+ employees, 8 partners |
-| **Audience Reach** | 150K newsletter subscribers | 3.9M YouTube subs, 10M+ total social |
+| **Audience Reach** | 150K newsletter subscribers | 4M YouTube subs, 11.7M+ total social |
 | **Leads Generated** | Unknown | 20,000+ per day |
 | **Target Audience** | W-2 professionals buying their first SMB ($500K–$5M deals) | Existing business owners scaling $3M–$100M+ companies |
 
@@ -45,19 +45,22 @@ Both companies operate in the "business acquisition" space but play fundamentall
 
 | | **SMB Deal Hunter** | **Acquisition.com** |
 |---|---|---|
-| **Primary Channel** | Substack newsletter | YouTube (3.9M subs, 781M+ views, 3,600+ videos) |
-| **Books** | None | 3 books, 4M+ copies sold |
+| **Primary Channel** | Substack newsletter | YouTube (4M subs, 918M+ views, 4,200+ videos) |
+| **Books** | None | 3 books, 5M+ copies sold |
 | **Book Strategy** | N/A | *$100M Money Models* sold **2.9M copies in one day** (Guinness World Record) |
 | **Ad Spend** | Small Meta budget | $4M+/year |
 | **ROAS** | Unknown | **36:1 lifetime** ($36 back per $1 spent) |
 | **Content Philosophy** | Gated — best content behind paywall | Give away everything free — charge for implementation |
 | **Podcast** | Small audience | *The Game* — major business podcast |
-| **Social Presence** | Newsletter-centric | YouTube, Instagram, TikTok, X, LinkedIn |
+| **Social Presence** | Newsletter-centric | YouTube (4M), Instagram (4.45M), TikTok (1.6M), X (955K), LinkedIn (714K) |
+| **Content Output** | Weekly newsletter + occasional webinars | **250+ pieces/week** from 2 days/month recording |
+| **Content Spend** | Small | $70K/month minimum, up to $4M/year |
+| **Book Launch Revenue** | N/A | *$100M Money Models* generated **~$100M in total launch revenue** |
 
 ### Hormozi's Content Flywheel
 
 1. Give away ALL knowledge for free (books, YouTube, free courses)
-2. Build massive trust and brand at scale (10M+ followers)
+2. Build massive trust and brand at scale (11.7M+ followers)
 3. Best businesses come to him for help (20,000 leads/day)
 4. Take equity in the best ones — compound wealth through ownership
 5. Portfolio growth funds more content — repeat
@@ -106,6 +109,8 @@ Both companies operate in the "business acquisition" space but play fundamentall
 ### Hormozi's Core Insight
 
 Hormozi proved that giving away knowledge for free at massive scale creates a bigger, more profitable funnel than gating it. His 36:1 ROAS and 20,000 daily leads are the result of radical generosity with content. The real monetization happens through equity, not tuition.
+
+His core mantra: **"Give away the secrets, sell the implementation."** Only ~1% of people who consume free content actually implement it. The other 99% become the paying customer base. He simultaneously gave *$100M Money Models* away free AND sold 3.6M+ paid copies in a weekend — proving free availability drives more paid sales, not fewer.
 
 ---
 
