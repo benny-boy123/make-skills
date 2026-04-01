@@ -1,0 +1,16 @@
+[Unit]
+Description=Gmail Organizer Daemon
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/gmail-organizer
+ExecStart=/usr/bin/node src/index.js --daemon
+Restart=on-failure
+RestartSec=30
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

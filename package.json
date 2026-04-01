@@ -1,0 +1,18 @@
+{
+  "name": "gmail-organizer",
+  "version": "1.0.0",
+  "description": "Automated Gmail organizer — labels, archives, and cleans up your inbox daily",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "auth": "node src/auth.js",
+    "run-once": "node src/index.js --once",
+    "daemon": "node src/index.js --daemon"
+  },
+  "keywords": ["gmail", "organizer", "automation"],
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^131.0.0",
+    "node-cron": "^3.0.3"
+  }
+}
